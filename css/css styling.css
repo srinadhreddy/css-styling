@@ -1,0 +1,128 @@
+sbody
+{
+	width:100%;
+	position:relative;
+}
+
+
+hr{
+
+
+border-top: 10px solid yellow;
+}	
+#hux
+{
+	font-weight:bold;
+	font-family:arial;
+	font-size:30px;
+	text-align:center;
+	margin-top:10px;
+}
+#brave
+{
+	position:absolute;
+	top:100px;
+	left:10px;
+	font-size:20px;
+	font-weight:bold;
+}
+#para
+{
+	position:absolute;
+	top:140px;
+	left:5px;
+	text-indent:20px;
+	text-align:justify;
+	word-spacing:4px;
+	color:brown;
+}
+#best
+{
+	position:absolute;
+	top:350px;
+	left:10px;
+	font-size:20px;
+	font-weight:bold;
+}
+#para1
+{
+	position:absolute;
+	top:380px;
+	left:10px;
+	word-spacing:4px;
+	color:brown;
+	text-indent:20px;
+}
+.menu1
+{
+	position:absolute;
+	top:430px;
+	left:10px;
+}
+#you
+{
+	position:absolute;
+	top:530px;
+	left:30px;
+}
+	.menu2
+{
+	position:absolute;
+	top:550px;
+	left:10px;
+}
+#top
+{
+	position:absolute;
+	top:100px;
+	left:800px;
+	font-size:20px;
+	font-weight:bold;
+}
+.menu3
+{
+	position:absolute;
+	top:130px;
+	left:830px;
+	text-decoration:none;
+	
+}
+
+.menu3 li a
+{
+	color:brown;
+}
+.menu4
+{
+	position:absolute;
+	top:60px;
+	left:1000px;
+	padding:0px;
+	margin:0px;
+}
+.menu4 li
+{
+	list-style:none;
+	margin:20px;
+}
+.menu4 li a
+{
+	padding:20px 30px;
+	text-align:center;
+	display:block;
+	border:1px solid black;
+	text-decoration:none;
+	
+}
+.menu4 li:first-child
+
+{
+	background-color:red;
+               color:white;
+}	
+
+	
+
+
+
+	
